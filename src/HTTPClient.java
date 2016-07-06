@@ -7,7 +7,7 @@ import java.io.PrintStream;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
-public class SimpleSocket {
+public class HTTPClient {
 	
 	
 	public static void main(String[] args) {
